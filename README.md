@@ -22,4 +22,6 @@
 
 - `image1,image2,image3,mask_base*`: the wordcloud images and the PNG file used to create the mask;
 
+- `Dataset.zip`: this folder contains *"info_1".csv*(the information dataset we have created) and *"description_matrix.csv"* (the other dataset);
 
+- `Finaldata.zip`: announcements obtained from scraping.
