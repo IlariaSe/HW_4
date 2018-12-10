@@ -11,7 +11,7 @@
 
    | Labels        | Announcements |
    | ------------- |:-------------:| 
-   |      3        |        1      | 
+   |      0        |        1      | 
 
 
 -  `Description_cluster`: this file has the same structure as the one above, but it is relative to the description matrix;
